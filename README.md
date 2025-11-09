@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Milanez Cavalheri
 
-## Físico, Analista e Cientísta de Dados
+## Físico, Analista e Cientista de Dados
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GMCavalheri)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GMCavalheri)](https://github.com/anuraghazra/github-readme-stats)
