@@ -76,8 +76,8 @@ An ETL pipeline integrating a Data Lake with a relational Data Warehouse, suppor
 **[🔗 Currency Exchange ETL Pipeline Orchestrated with Airflow](https://github.com/GMCavalheri/Complete-ETL-Pipeline-with-Airflow)**
 A pipeline that pulls world currency exchange rates against the US dollar via API, transforms the data, and serves it through a daily-updating dashboard. Orchestrated with Apache Airflow and containerized with Docker.
 
-**[🔗 Pokédex Inteligente — Web App with Django + LLM](https://github.com/GMCavalheri)**
-A Django web application that consumes data from the PokéAPI and lets users query it in natural language through LLM integration.
+**[🔗 Smart Pokedex — Web App with Django + Redis + MySQL + LLM](https://github.com/GMCavalheri/Smart-Pokedex)**
+A Django web application that consumes data from the PokéAPI, store in a Redis cache and MySQL database and lets users query it in natural language through LLM integration.
 
 ---
 
