@@ -81,12 +81,7 @@ A Django web application that consumes data from the PokéAPI, store in a Redis 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GMCavalheri&show_icons=true&theme=default&hide_border=true" alt="GMCavalheri's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMCavalheri&layout=compact&hide_border=true" alt="Top Languages" height="165">
-</p>
 
 ---
 
