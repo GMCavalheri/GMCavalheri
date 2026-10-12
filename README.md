@@ -29,7 +29,7 @@
 - 🔭 Focused on reliability engineering and prognostics (RUL, Weibull, MTBF), physics-informed ML, and end-to-end data pipelines
 - 🌱 Next on the roadmap: security data engineering and detection engineering, bringing the same data-driven approach to cybersecurity
 - 💬 Ask me about Python, SQL, Spark, PINNs, reliability metrics, or predictive maintenance
-- 🌎 Based in Mogi Guaçu, SP, Brazil
+- 🌎 Based in São Paulo, SP, Brazil
 
 ---
 
